@@ -70,7 +70,7 @@ async def handle_ai(m: types.Message):
     for t in triggers: prompt = prompt.replace(t, "")
     
     try:
-        response = client.models.generate_content(model="gemini-2.0-flash", contents=prompt)
+        response = client.models.generate_content(model="gemini-2.5-flash", contents=prompt)
         await m.reply(response.text)
     except Exception as e:
         await m.reply("🔧 Ошибка ИИ.")
