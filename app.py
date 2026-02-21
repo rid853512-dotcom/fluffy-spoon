@@ -10,7 +10,7 @@ from google import genai
 
 # --- [КОНФИГУРАЦИЯ] ---
 TG_TOKEN = "8373543507:AAEjXwmnYGcyzbgUrFnv7iMTz9KBp-l6d6c"
-GEMINI_KEY = "AIzaSyDSycStAhR3mMXjl-JqsHEe08u1uWeFxZk"
+GEMINI_KEY = "AIzaSyDORp2NgBtbud0j0ITDT694pkbF4wR4igQ"
 BOT_NAME = "RID3 AI"
 BOT_USERNAME = "@rid3_ai_bot"
 
