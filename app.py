@@ -9,7 +9,7 @@ from aiogram.client.default import DefaultBotProperties
 from google import genai
 
 # --- [КОНФИГУРАЦИЯ] ---
-TG_TOKEN = "8373543507:AAEjXwmnYGcyzbgUrFnv7iMTz9KBp-l6d6c"
+TG_TOKEN = "8373543507:AAE1t-rrq76Q87vfWTM0DneXjMB4kRyKIPU"
 GEMINI_KEY = "AIzaSyDORp2NgBtbud0j0ITDT694pkbF4wR4igQ"
 BOT_NAME = "RID3 AI"
 BOT_USERNAME = "@rid3_ai_bot"
